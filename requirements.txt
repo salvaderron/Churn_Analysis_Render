@@ -55,7 +55,5 @@ rich==13.7.1
 rpds-py==0.19.0
 scikit-learn==1.5.1
 scipy==1.14.0
-setuptools==71.0.3
-six==1.16.0
 tensorflow==2.16.0
 tensorflow-intel==2.16.0
